@@ -1,4 +1,5 @@
 🔬 Repositorios de código y proyectos open source
+
 https://github.com
 
 https://gitlab.com
@@ -20,6 +21,8 @@ https://launchpad.net
 https://glitch.com
 
 🤖 IA, Machine Learning, Modelos y datasets
+
+
 https://huggingface.co
 
 https://civitai.com
@@ -41,6 +44,8 @@ https://deepmind.com/research
 https://stability.ai
 
 📚 Datasets
+
+
 https://www.kaggle.com/datasets
 
 https://datahub.io
@@ -62,6 +67,8 @@ https://commoncrawl.org
 https://awesomeopensource.com/projects/dataset
 
 👩‍💻 Portafolios, proyectos de profesionales y freelancers
+
+
 https://www.behance.net
 
 https://dribbble.com
@@ -104,6 +111,8 @@ https://pitchbook.com
 https://startupranking.com
 
 🧠 Investigación y ciencia
+
+
 https://arxiv.org
 
 https://researchgate.net
@@ -125,6 +134,8 @@ https://ssrn.com
 https://jstor.org
 
 🎨 Arte generativo y multimedia
+
+
 https://artbreeder.com
 
 https://runwayml.com
@@ -146,6 +157,8 @@ https://openart.ai
 https://pollinations.ai
 
 👥 Comunidades y foros técnicos
+
+
 https://stackoverflow.com
 
 https://dev.to
@@ -167,6 +180,8 @@ https://r/opensource
 https://r/AskAcademia
 
 🧪 Startups y prototipos raros / experimentales
+
+
 https://thereisno.ai
 
 https://a16z.com/portfolio
@@ -188,6 +203,8 @@ https://alternativa.ai
 https://aispaces.org
 
 📈 Showcases de productos e ideas
+
+
 https://buildspace.so
 
 https://shipfa.st
